@@ -1,6 +1,6 @@
 # Olá, me chamo Cris Pereira!
 
-Sou estudante de Python, internacionalista e pesquisadora de política externa em saúde. 
+Sou estudante de Python, mestre em Relações Internacionais e pesquisadora de política externa em saúde. 
 
 Apaixonada por histórias de fantasia, idiomas e natação. 
 
