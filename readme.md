@@ -9,7 +9,7 @@ Estou me preparando para me tornar uma analista de dados.
 ## Tecnologias 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" width="40"/>
+    <img src="https://www.r-project.org/logo/Rlogo.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="42"/>
 </div>
 
