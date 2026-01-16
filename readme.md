@@ -1,10 +1,11 @@
 # Olá, me chamo Cris Pereira!
-
+<div>
 Sou estudante de doutorado em Relações Internacionais e pesquisadora de política externa em saúde.
+</div>
 Agora também estou me aventurando para aprender Python e R, a fim de aperfeiçoar a análise de dados da minha pesquisa.
-
+<div>
 Também sou apaixonada por histórias de fantasia, costura, idiomas e natação!
- 
+</div> 
 
 ## Tecnologias que estou estudando 
 
