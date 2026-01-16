@@ -15,6 +15,11 @@ Também sou apaixonada por histórias de fantasia, costura, idiomas e natação!
 </div>
 
 ## Projetos
+<div>Temas que estudo:</div>
+<div>Instituições Participativas</div>
+<div>Indústria Farmacêutica</div>
+<div>Interesses Organizados</div>
+<div>Saúde Global</div>
 
 ## Contatos
 <div>
